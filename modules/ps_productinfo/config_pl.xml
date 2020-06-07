@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>ps_productinfo</name>
+    <displayName><![CDATA[Podpowiedź produktu]]></displayName>
+    <version><![CDATA[2.0.0]]></version>
+    <description><![CDATA[Pokazuje informacje na stronie produktu: ile os&oacute;b go przegląda, kiedy ostatnio został sprzedany i kiedy po raz ostatni został dodany do koszyka.]]></description>
+    <author><![CDATA[PrestaShop]]></author>
+    <tab><![CDATA[]]></tab>
+    <is_configurable>1</is_configurable>
+    <need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>
